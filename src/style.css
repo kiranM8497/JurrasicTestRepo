@@ -1,0 +1,14 @@
+.chart-container {
+    display: flex;
+    margin-top: 5px;
+    /* justify-content: space-between;  */
+     
+  }
+  /* .Dates{
+    display: inline-flex;
+    align-items: center;
+  } */
+  
+  /* .chart-container > div {
+    flex: 1; 
+  } */
